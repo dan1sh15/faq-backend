@@ -26,7 +26,7 @@ This is an **Express.js** application for managing **FAQs** (Frequently Asked Qu
 - **Environment Management**: `dotenv`
 
 ---
-
+```
 ## **Folder Structure**
 faq-app/
 ├── config/
@@ -50,7 +50,7 @@ faq-app/
 ├── index.js
 
 ---
-
+```
 
 ---
 
