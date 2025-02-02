@@ -26,8 +26,8 @@ This is an **Express.js** application for managing **FAQs** (Frequently Asked Qu
 - **Environment Management**: `dotenv`
 
 ---
-```
 ## **Folder Structure**
+```
 faq-app/
 ├── config/
 │ └── db.js # Database configuration
@@ -48,7 +48,6 @@ faq-app/
 │ └── constants.js # Constants like API keys
 ├── .env # Environment variables
 ├── index.js
-
 ---
 ```
 
